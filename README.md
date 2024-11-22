@@ -60,7 +60,7 @@ The analysis informed whether additional use cases of Verisk's data would be wor
 - **Languages**: Python, SQL
 - **Libraries**: `pandas`, `datetime`, `requests`, `matplotlib`, `seaborn`
 
-## [View Jupyter Notebook Code](https://github.com/srdjan-injac/active_insurance_policies/blob/main/ODYS-42.ipynb)
+## [Explore the Complete Code in Jupyter Notebook](https://github.com/srdjan-injac/active_insurance_policies/blob/main/ODYS-42.ipynb)
 ---
 
 ## Insights
