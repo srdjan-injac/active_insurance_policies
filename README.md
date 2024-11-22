@@ -70,3 +70,6 @@ This project demonstrated the utility of Verisk’s data in analyzing applicant 
 - Historical policy continuity served as a strong predictor of **future active policy maintenance**, making prior active policies a valuable risk mitigation factor.
 
 These results inform potential enhancements to applicant verification workflows, improving the effectiveness of Verisk's data for decision-making.
+
+---
+[Back to My Portfolio](https://srdjan-injac.github.io/my_portfolio/)
