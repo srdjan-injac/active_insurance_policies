@@ -48,7 +48,7 @@ The analysis informed whether additional use cases of Verisk's data would be wor
 
 ### Policy Categorization
 - **Active Policies**: Out of 1613 applications, 1307 policies (81.05%) were active, while 306 policies (18.95%) were inactive.
-- **Average Policy Length**: Active policies had an average length of **7 months (230.88 days)**, with the longest active policy spanning **736 days** (AppId: 9800877).
+- **Average Policy Length**: Active policies had an average length of **7 months (230.88 days)**, with the longest active policy spanning **736 days** .
 
 ### Predictive Insights
 - Applicants with a prior active insurance policy for at least 6 months were **90.06% more likely** to maintain an active policy for the next 6 months compared to applicants without prior active policies.
