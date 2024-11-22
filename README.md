@@ -41,7 +41,6 @@ The analysis informed whether additional use cases of Verisk's data would be wor
 - **Identifying Active Policies**: Checked if policies were active for the 12 months preceding the decision date, considering policies without cancellations as active.
 - **Categorizing Policies**: Classified policies as old or new based on VIN matches and sub-classified into cancelled or continuous based on transaction history.
 - **Predictive Analysis**: Compared applicants with prior active insurance to those without to identify the likelihood of maintaining future active policies.
-- **Summarizing Results**: Generated spreadsheets summarizing metrics for funded applications and future predictions.
 
 ---
 
@@ -60,8 +59,8 @@ The analysis informed whether additional use cases of Verisk's data would be wor
 ## Key Technologies
 - **Languages**: Python, SQL
 - **Libraries**: `pandas`, `datetime`, `requests`, `matplotlib`, `seaborn`
-- **Tools**: Verisk API, data visualization tools
 
+## [View Jupyter Notebook Code](https://github.com/srdjan-injac/active_insurance_policies/blob/main/ODYS-42.ipynb)
 ---
 
 ## Insights
